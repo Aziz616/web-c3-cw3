@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
 .text-color {
   color: aqua;
   background-color: brown;
@@ -8,5 +9,3 @@
   font-weight: bolder;
   color: aqua;
 }
-
-@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
