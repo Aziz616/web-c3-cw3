@@ -1,0 +1,12 @@
+.text-color {
+  color: aqua;
+  background-color: brown;
+
+  font-family: "Amiri", serif;
+}
+#color {
+  font-weight: bolder;
+  color: aqua;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Amiri&display=swap");
